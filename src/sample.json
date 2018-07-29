@@ -1,0 +1,3753 @@
+{
+"version": "0.94",
+"list": {
+"title": {
+"$text": "NPR: Stories from NPR"
+},
+"teaser": {
+"$text": "Assorted stories from NPR"
+},
+"miniTeaser": {
+"$text": "Custom NPR News Feed API.  Visit https://www.npr.org/templates/apidoc/index.php for more information."
+},
+"link": [
+{
+"type": "api",
+"$text": "http://api.npr.org/query?"
+}
+],
+"story": [
+{
+"id": "621014586",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/ed/2018/07/25/621014586/students-seeking-equal-access-to-education-may-find-federal-help-harder-to-come-?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=621014586"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2I0s4xd"
+}
+],
+"title": {
+"$text": "Students Seeking Equal Access To Education May Find Federal Help Harder To Come By"
+},
+"partnerId": {
+"$text": "621014586"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "The government changed the complaint process for families trying to improve the accessibility of schools, resolve racial discrimination and address other equal-access issues. A lawsuit has been filed."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "NPR Ed"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_sq-7bc0924a33834774005402f103286efe56ee917c.jpg?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_sq-7bc0924a33834774005402f103286efe56ee917c.jpg?s=11"
+},
+"provider": {
+"$text": "Janice Chang for NPR"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 10:22:55 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 10:22:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 10:23:20 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1013",
+"type": "primaryTopic",
+"title": {
+"$text": "Education"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/education/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1013&meta=inherit"
+}
+]
+},
+{
+"id": "434975886",
+"type": "collection",
+"title": {
+"$text": "NPR Stories For Apple News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=434975886&meta=inherit"
+}
+]
+},
+{
+"id": "311911180",
+"type": "blog",
+"slug": "true",
+"title": {
+"$text": "NPR Ed"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/ed/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=311911180&meta=inherit"
+}
+]
+},
+{
+"id": "1133",
+"type": "topic",
+"title": {
+"$text": "On Disabilities"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/disabilities/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1133&meta=inherit"
+}
+]
+},
+{
+"id": "1013",
+"type": "topic",
+"title": {
+"$text": "Education"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/education/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1013&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "621016313",
+"name": {
+"$text": "Alexis Arnold"
+}
+}
+],
+"image": [
+{
+"id": "625325939",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_custom-7c9dca2c552132f6b79a55059fe9135a670cbf49.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "The System Of Complaints Is Changing For Students Without Equal Access To Education."
+},
+"caption": {},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Janice Chang for NPR"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_custom-7c9dca2c552132f6b79a55059fe9135a670cbf49.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability-e35d81036f54404d700a07b8d4fb0d744964819c.jpg",
+"height": "1997",
+"width": "2663"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_sq-7bc0924a33834774005402f103286efe56ee917c.jpg",
+"height": "1897",
+"width": "1897"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_wide-b03cf20c2ccf16a3f9949d6616894604c22b75a4.jpg",
+"height": "1797",
+"width": "3195"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_custom-7c9dca2c552132f6b79a55059fe9135a670cbf49.jpg",
+"height": "1997",
+"width": "3200"
+},
+{
+"type": "custom",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_custom-7c9dca2c552132f6b79a55059fe9135a670cbf49.jpg",
+"height": "1997",
+"width": "3200",
+"primary": "true"
+},
+{
+"type": "brick",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_brick-ebf177116e6c3f67c368b96363810b7cdd47bf2b.jpg",
+"height": "1471",
+"width": "3200"
+},
+{
+"type": "slide",
+"src": "https://media.npr.org/assets/img/2018/07/02/janice_chang_disability_slide-fdac729012413070ccd46c4c2d880439c57bacbf.jpg",
+"height": "1997",
+"width": "2996"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "623303508",
+"type": "internal",
+"caption": {
+"$text": "White House Proposes Merging Education And Labor Departments"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/ed/2018/06/21/622189097/white-house-proposes-merging-education-and-labor-departments?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=622189097"
+}
+]
+},
+{
+"id": "621019010",
+"type": "internal",
+"caption": {
+"$text": "DeVos On School Safety; A New Leader For Education's Civil Rights Office"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/ed/2018/06/09/617520894/devos-on-school-safety-a-new-leader-for-educations-civil-rights-office?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=617520894"
+}
+]
+},
+{
+"id": "621041373",
+"type": "internal",
+"caption": {
+"$text": "Education Secretary DeVos Acknowledges Problems With Teacher Grant Program"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/05/22/613449468/education-secretary-devos-acknowledges-problems-with-teacher-grant-program?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=613449468"
+}
+]
+},
+{
+"id": "621037788",
+"type": "internal",
+"caption": {
+"$text": "Federal School Safety Commission Holds First Public Session. DeVos Wasn't There"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/06/06/617719491/federal-school-safety-commission-holds-first-public-session-devos-wasnt-there?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=617719491"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "During their daughter's freshman year of high school, Paul and Joy Orton spent afternoons describing biology diagrams and illustrations to her. She is blind, and the materials given to her in class were not in a format she could read."
+},
+{
+"num": "2",
+"$text": "Their daughter had no trouble understanding the material, but she was dependent on her parents. She wanted to learn on her own, like her classmates did."
+},
+{
+"num": "3",
+"$text": "Her parents successfully lobbied their northern Alabama district for a Braille biology textbook."
+},
+{
+"num": "4",
+"$text": "\"She put her hands on the diagram and said, 'Oh! I get it now,' \" Joy Orton says. \"It was a really powerful moment that the diagram was helpful to her, but only if it's tactile or accessible.\""
+},
+{
+"num": "5",
+"$text": "But the textbook didn't solve everything. There were still the daily slide presentations."
+},
+{
+"num": "6",
+"$text": "The slides that accompanied biology lectures also included diagrams and illustrations. Theres no textbook for the class, so the presentation was the main source of information. With no alternative text describing the images, their daughter's screen reader couldn't recognize them."
+},
+{
+"num": "7",
+"$text": "The family tried to work with school administrators, but the situation did not improve."
+},
+{
+"num": "8",
+"$text": "So they filed a complaint with the U.S. Department of Education's Office for Civil Rights. The office, OCR for short, is responsible for reviewing cases that allege that students do not have equal access to education."
+},
+{
+"num": "9",
+"$text": "The Ortons' complaint outlined the issues with the slides and emphasized their desire to improve accessibility in their daughter's school district."
+},
+{
+"num": "10",
+"$text": "Two years later, they filed a second, similar complaint to the OCR after their daughter missed a National Honor Society meeting because it was publicized on screens around the school. She wandered the halls looking for the meeting and almost missed an assignment deadline."
+},
+{
+"num": "11",
+"$text": "\"I'm not asking for special treatment,\" her mother says, \"I want her to get an appropriate education.\""
+},
+{
+"num": "12",
+"$text": "Changes at OCR make it harder to resolve complaints"
+},
+{
+"num": "13",
+"$text": "In March, the Office for Civil Rights updated the way it processes cases. Now, individuals who file multiple complaints that are similar in nature — as the Ortons did — could see their cases dismissed without being reviewed."
+},
+{
+"num": "14",
+"$text": "The changes at the OCR prompted a lawsuit against the Department of Education. Filed by the National Federation of the Blind, the Council of Parent Attorneys and Advocates and the NAACP, the suit argues that these changes were illegal and contrary to the purpose of the office."
+},
+{
+"num": "15",
+"$text": "The suit takes issue with three changes: First, the office can now dismiss cases it considers as forming a pattern, despite the fact that the revised guidance doesn't define a pattern. Second, the office can dismiss a complaint against more than one group of people — a school and a technology vendor, for example — if the investigation would place what would be considered an \"unreasonable burden\" on resources."
+},
+{
+"num": "16",
+"$text": "Third, there is now no appeals process. Previously, the OCR gave complainants 60 days to submit a written appeal of a decision."
+},
+{
+"num": "17",
+"$text": "The changes are meant to speed up the process of reviewing cases, according to Liz Hill, a spokeswoman for the Education Department. She says improving OCR's management of its docket, investigations and case resolutions allows the investigators to better accomplish their mission."
+},
+{
+"num": "18",
+"$text": "She said she could not answer any further questions because of \"pending litigation,\" but she stated that the OCR will continue to \"accept all complaints including those from third-party advocacy organizations that file discrimination complaints on behalf of students.\""
+},
+{
+"num": "19",
+"$text": " What the changes are meant to address"
+},
+{
+"num": "20",
+"$text": "The Ortons filed their first complaint when their daughter was a freshman in high school. After they submitted it, an investigator told them that the office intended to resolve their case within six months, the standard timeline for any given case. But their complaint was put on hold for several months after their initial investigator left the department. It was finally resolved this May, when their daughter was finishing her junior year. Waiting two years for a resolution, her parents say, was \"too long.\""
+},
+{
+"num": "21",
+"$text": "\"Complaints were sort of sitting for a while,\" says William Zee, a lawyer who represents school districts and universities with a focus on services for students with disabilities. He has been affiliated with OCR cases in the past but is not connected with the lawsuit."
+},
+{
+"num": "22",
+"$text": "In the last few years, Zee says, it became difficult to get responses from OCR and to get schools to make adjustments. However, he says he hopes the changes could speed the process."
+},
+{
+"num": "23",
+"$text": "The limbo is largely a result of the high volume of OCR cases, especially cases of web accessibility, he explains. In 2017, almost 3,700 investigations lasted longer than six months, the office reported."
+},
+{
+"num": "24",
+"$text": "The number of cases assigned to each staff member at any given time more than doubled between 2006 and 2016, from about 15 cases to about 40. The OCR's 2019 budget request projects that staffers will handle 38 or 39 cases each, while the number of submissions continues to rise."
+},
+{
+"num": "25",
+"$text": "The news site Inside Higher Ed, which analyzed Education Department employee data, reported that the OCR has lost nearly 70 staffers since 2017. According to the office's most recent budget documents, the \"voluntary separation incentive payments,\" or buyouts, offered to staff last year were intended to get rid of outdated job descriptions or positions that were no longer needed."
+},
+{
+"num": "26",
+"$text": "During a budget hearing in June, Sen. Patty Murray, D-Wash., questioned why Education Secretary Betsy DeVos did not ask for a larger budget if she felt OCR resources were strained. She also asked DeVos whether the buyouts resulted in fewer staff members to handle the workload."
+},
+{
+"num": "27",
+"$text": "DeVos answered that the OCR has been able to handle its workload with \"effectiveness and efficiency.\" She added that she is proud of what it has been able to accomplish and emphasized that the office will continue to address all complaints appropriately."
+},
+{
+"num": "28",
+"$text": "Reaction to the changes"
+},
+{
+"num": "29",
+"$text": "William Zee, the education lawyer, says he is not surprised the department made changes to address the backlog. He understands the need to deal with complaints quickly and efficiently, but, he adds, it remains to be seen whether removing the right to appeal was an appropriate change."
+},
+{
+"num": "30",
+"$text": "\"The lack of the appeals process is the aspect [of the suit] that has the most legs,\" he says."
+},
+{
+"num": "31",
+"$text": "Eve Hill, the attorney representing the civil rights groups behind the lawsuit, says the changes weren't necessary because the office already weeds out cases that don't meet the standards for an investigation. In fiscal year 2016, the OCR dismissed 58 percent of all submitted complaints because they were considered without merit because of missing pieces."
+},
+{
+"num": "32",
+"$text": "The OCR hasn't released the number of disability-related complaints dismissed after the changes took effect early this year. But an investigation by ProPublica found more than 1,200 dismissals."
+},
+{
+"num": "33",
+"$text": "The lawsuit also says there was no opportunity for public comment before the changes were approved. (There is no press release about the new guidance on the Department of Education's website nor any record of a comment period.)"
+},
+{
+"num": "34",
+"$text": "Looking for a way forward"
+},
+{
+"num": "35",
+"$text": "Often schools or districts don't have the technical expertise to make their environments accessible, so parents and disability advocates rely on OCR complaints. "
+},
+{
+"num": "36",
+"$text": "As early as 2013, the OCR has offered online webinars and technical assistance presentations to assist schools in making sure that school technology is in compliance with accessibility laws, and to help schools get up to speed with new innovations for students. "
+},
+{
+"num": "37",
+"$text": "These initiatives signal the department's focus on efforts to build school expertise, rather than tackling mass investigations of inaccessibility."
+},
+{
+"num": "38",
+"$text": "Paul and Joy Orton say the changes make them hesitant to file additional complaints, even if they encounter more problems with their daughter's school — and they're still waiting to hear whether their pending case has been resolved or dismissed under the new guidance."
+},
+{
+"num": "39",
+"$text": "\"Just because I've filed more than one complaint, that doesn't make me a 'frequent flyer,' \" Joy Orton says. \"It makes me a repeat victim.\""
+},
+{
+"num": "40",
+"$text": "NPR intern Emily Cardinali contributed reporting for this story.  [Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "During their daughter's freshman year of high school, Paul and Joy Orton spent afternoons describing biology diagrams and illustrations to her. She is blind, and the materials given to her in class were not in a format she could read."
+},
+{
+"num": "2",
+"$text": "Their daughter had no trouble understanding the material, but she was dependent on her parents. She wanted to learn on her own, like her classmates did."
+},
+{
+"num": "3",
+"$text": "Her parents successfully lobbied their northern Alabama district for a Braille biology textbook."
+},
+{
+"num": "4",
+"$text": "\"She put her hands on the diagram and said, 'Oh! I get it now,' \" Joy Orton says. \"It was a really powerful moment that the diagram was helpful to her, but only if it's tactile or accessible.\""
+},
+{
+"num": "5",
+"$text": "But the textbook didn't solve everything. There were still the daily slide presentations."
+},
+{
+"num": "6",
+"$text": "The slides that accompanied biology lectures also included diagrams and illustrations. Theres no textbook for the class, so the presentation was the main source of information. With no alternative text describing the images, their daughter's screen reader couldn't recognize them."
+},
+{
+"num": "7",
+"$text": "The family tried to work with school administrators, but the situation did not improve."
+},
+{
+"num": "8",
+"$text": "So they filed<strong> </strong>a complaint with the U.S. Department of Education's Office for Civil Rights. The office, OCR for short, is responsible for reviewing cases that allege that students do not have equal access to education."
+},
+{
+"num": "9",
+"$text": "The Ortons' complaint outlined the issues with the slides and emphasized their desire to improve accessibility in their daughter's school district."
+},
+{
+"num": "10",
+"$text": "Two years later, they filed a second,<strong> </strong>similar complaint to the OCR after their daughter missed a National Honor Society meeting because it was publicized on screens around the school. She wandered the halls looking for the meeting and almost missed an assignment deadline."
+},
+{
+"num": "11",
+"$text": "\"I'm not asking for special treatment,\" her mother says, \"I want her to get an appropriate education.\""
+},
+{
+"num": "12",
+"$text": "<strong>Changes at OCR make it harder to resolve complaints</strong>"
+},
+{
+"num": "13",
+"$text": "In March, the Office for Civil Rights <a href=\"https://www2.ed.gov/about/offices/list/ocr/docs/ocrcpm.pdf\">updated the way it processes cases</a>. Now, individuals who file multiple complaints that are similar in nature — as the Ortons did — could see their cases dismissed without being reviewed."
+},
+{
+"num": "14",
+"$text": "The changes at the OCR <a href=\"https://www.browngold.com/civil-rights-groups-sue-education-department-process-dismissing-discrimination-claims-investigation\">prompted a lawsuit</a> against the Department of Education. Filed by the National Federation of the Blind, the Council of Parent Attorneys and Advocates and the NAACP, the suit argues that these changes were illegal and contrary to the purpose of the office."
+},
+{
+"num": "15",
+"$text": "The suit takes issue with three changes: First, the office can now dismiss cases it considers as forming a pattern, despite the fact that the revised guidance doesn't define a pattern. Second, the office can dismiss a complaint against more than one group of people — a school and a technology vendor, for example — if the investigation would place what would be considered an \"unreasonable burden\" on resources."
+},
+{
+"num": "16",
+"$text": "Third, there is now no appeals process. Previously, the OCR gave complainants <a href=\"https://www2.ed.gov/about/offices/list/ocr/docs/ocrcpm-2010.html#III_6\">60 days to submit a written appeal</a> of a decision."
+},
+{
+"num": "17",
+"$text": "The changes are meant to speed up the process of reviewing cases, according to Liz Hill, a spokeswoman for the Education Department. She says improving OCR's management of its docket, investigations and case resolutions allows the investigators to better accomplish their mission."
+},
+{
+"num": "18",
+"$text": "She said she could not answer any further questions because of \"pending litigation,\" but she stated that the OCR will continue to \"accept all complaints including those from third-party advocacy organizations that file discrimination complaints on behalf of students.\""
+},
+{
+"num": "19",
+"$text": "<strong> What the changes are meant to address</strong>"
+},
+{
+"num": "20",
+"$text": "The Ortons filed their first complaint when their daughter was a freshman in high school. After they submitted it, an investigator told them that the office intended to resolve their case within six months, the standard timeline for any given case. But their complaint was put on hold for several months after their initial investigator left the department. It was finally resolved this May, when their daughter was finishing her junior year. Waiting two years for a resolution, her parents say, was \"too long.\""
+},
+{
+"num": "21",
+"$text": "\"Complaints were sort of sitting for a while,\" says William Zee, a lawyer who represents school districts and universities with a focus on services for students with disabilities. He has been affiliated with OCR cases in the past but is not connected with the lawsuit."
+},
+{
+"num": "22",
+"$text": "In the last few years, Zee says, it became difficult to get responses from OCR and to get schools to make adjustments. However, he says he hopes the changes could speed the process."
+},
+{
+"num": "23",
+"$text": "The limbo is largely a result of the high volume of OCR cases, especially cases of web accessibility, he explains. In 2017, <a href=\"https://www2.ed.gov/about/overview/budget/budget19/justifications/z-ocr.pdf\">almost 3,700 investigations lasted longer than six months</a>, the office reported."
+},
+{
+"num": "24",
+"$text": "The number of cases assigned to each staff member at any given time more than doubled between 2006 and 2016, from about 15 cases to about 40. The OCR's <a href=\"https://www2.ed.gov/about/overview/budget/budget19/justifications/z-ocr.pdf\">2019 budget request projects</a> that staffers will handle 38 or 39 cases each, while the number of submissions continues to rise."
+},
+{
+"num": "25",
+"$text": "The news site Inside Higher Ed<em>, </em>which analyzed Education Department employee data, reported that the OCR has <a href=\"https://www.insidehighered.com/news/2018/06/13/education-department-staff-down-13-percent-trump-administration-began\">lost nearly 70 staffers since 2017</a>. According to the office's most recent budget documents, the \"<a href=\"https://www2.ed.gov/about/overview/budget/budget19/justifications/z-ocr.pdf\">voluntary separation incentive payments</a>,\" or buyouts, offered to staff last year were intended to get rid of outdated job descriptions or positions that were no longer needed."
+},
+{
+"num": "26",
+"$text": "During a budget hearing in June, Sen. Patty Murray, D-Wash., questioned why<a href=\"https://www.c-span.org/video/?446426-1/education-secretary-betsy-devos-testifies-2019-budget-request\"> </a><a href=\"https://www.c-span.org/video/?446426-1/education-secretary-betsy-devos-testifies-2019-budget-request\">Education Secretary Betsy DeVos</a> did not ask for a larger budget if she felt OCR resources were strained. She also asked DeVos whether the buyouts resulted in fewer staff members to handle the workload."
+},
+{
+"num": "27",
+"$text": "DeVos answered that the OCR has been able to handle its workload with \"effectiveness and efficiency.\" She added that she is proud of what it has been able to accomplish and emphasized that the office will continue to address all complaints appropriately."
+},
+{
+"num": "28",
+"$text": "<strong>Reaction to the changes</strong>"
+},
+{
+"num": "29",
+"$text": "William Zee, the education lawyer, says he is not surprised the department made changes to address the backlog. He understands the need to deal with complaints quickly and efficiently, but, he adds, it remains to be seen whether removing the right to appeal was an appropriate change."
+},
+{
+"num": "30",
+"$text": "\"The lack of the appeals process is the aspect [of the suit] that has the most legs,\" he says."
+},
+{
+"num": "31",
+"$text": "Eve Hill, the attorney representing the civil rights groups behind the lawsuit, says the changes weren't necessary because the office already weeds out cases that don't meet the standards for an investigation.<strong><em> </em></strong>In fiscal year 2016, the OCR <a href=\"https://www2.ed.gov/about/overview/budget/budget18/justifications/z-ocr.pdf\">dismissed 58 percent</a> of all submitted complaints because they were considered without merit because of missing pieces."
+},
+{
+"num": "32",
+"$text": "The OCR hasn't released the number of disability-related complaints dismissed after the changes took effect early this year. But an <a href=\"https://www.propublica.org/article/devos-has-scuttled-more-than-1-200-civil-rights-probes-inherited-from-obama?utm_campaign=sprout&utm_medium=social&utm_source=twitter&utm_content=1529589699\">investigation by ProPublica</a> found more than 1,200 dismissals."
+},
+{
+"num": "33",
+"$text": "The lawsuit also says there was no opportunity for public comment before the changes were approved. (There is no press release about the new guidance on the Department of Education's website nor any record of a comment period.)"
+},
+{
+"num": "34",
+"$text": "<strong>Looking for a way forward</strong>"
+},
+{
+"num": "35",
+"$text": "Often schools or districts don't have the technical expertise to make their environments accessible, so parents and disability advocates rely on OCR complaints. "
+},
+{
+"num": "36",
+"$text": "As early as 2013, the OCR has offered online webinars and technical assistance presentations to assist schools in making sure that school technology is in compliance with accessibility laws, and to help schools get up to speed with new innovations for students. "
+},
+{
+"num": "37",
+"$text": "These initiatives signal the department's focus on efforts to build school expertise, rather than tackling mass investigations of inaccessibility."
+},
+{
+"num": "38",
+"$text": "Paul and Joy Orton say the changes make them hesitant to file additional complaints, even if they encounter more problems with their daughter's school — and they're still waiting to hear whether their pending case has been resolved or dismissed under the new guidance."
+},
+{
+"num": "39",
+"$text": "\"Just because I've filed more than one complaint, that doesn't make me a 'frequent flyer,' \" Joy Orton says. \"It makes me a repeat victim.\""
+},
+{
+"num": "40",
+"$text": "<em>NPR intern Emily Cardinali contributed reporting for this story. </em>  <div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Students+Seeking+Equal+Access+To+Education+May+Find+Federal+Help+Harder+To+Come+By&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "632218411",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632218411/trump-faults-cohen-after-release-of-tape-covering-payments-to-playboy-model?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632218411"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2LJBFLt"
+}
+],
+"title": {
+"$text": "Trump On Recording Released By Cohen: 'What Kind Of A Lawyer Would Tape A Client?'"
+},
+"partnerId": {
+"$text": "632218411"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Trump's former attorney Michael Cohen and then-candidate Trump can be heard discussing payments to former Playboy model Karen McDougal."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Politics"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_sq-e0f69bc514e2e179f9b4b53f364ddfeaa5689814.jpg?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_sq-e0f69bc514e2e179f9b4b53f364ddfeaa5689814.jpg?s=11"
+},
+"provider": {
+"$text": "AFP/Getty Images"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 10:19:00 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 10:34:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 10:34:20 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1014",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "312150170",
+"type": "collection",
+"title": {
+"$text": "Google News Editor's Picks"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/312150170/editors-picks?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=312150170&meta=inherit"
+}
+]
+},
+{
+"id": "597147250",
+"type": "tag",
+"title": {
+"$text": "Michael cohen"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/tags/597147250/michael-cohen?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=597147250&meta=inherit"
+}
+]
+},
+{
+"id": "595421472",
+"type": "tag",
+"title": {
+"$text": "Karen McDougal"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/tags/595421472/karen-mcdougal?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=595421472&meta=inherit"
+}
+]
+},
+{
+"id": "511343536",
+"type": "tag",
+"title": {
+"$text": "President Trump"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/tags/511343536/president-trump?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=511343536&meta=inherit"
+}
+]
+},
+{
+"id": "434975886",
+"type": "collection",
+"title": {
+"$text": "NPR Stories For Apple News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=434975886&meta=inherit"
+}
+]
+},
+{
+"id": "139482413",
+"type": "topic",
+"title": {
+"$text": "Elections"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/elections/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=139482413&meta=inherit"
+}
+]
+},
+{
+"id": "126935850",
+"type": "tag",
+"title": {
+"$text": "National Enquirer"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/tags/126935850/national-enquirer?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=126935850&meta=inherit"
+}
+]
+},
+{
+"id": "1014",
+"type": "topic",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "632226580",
+"name": {
+"personId": "2100941",
+"$text": "Brian Naylor"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/2100941/brian-naylor?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=2100941&meta=inherit"
+}
+]
+}
+],
+"image": [
+{
+"id": "632244629",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_wide-98a0a2537ca98aae6acce6a42450a4749ef4a35f.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "President Trump's former lawyer Michael Cohen in June. Cohen released a tape of himself seeming to discuss with then-candidate Trump payments to a former Playboy model."
+},
+"caption": {
+"$text": "President Trump's former lawyer Michael Cohen in June. Cohen released a tape of himself seeming to discuss with then-candidate Trump payments to a former Playboy model."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Timothy A. Clary"
+},
+"provider": {
+"url": "",
+"$text": "AFP/Getty Images"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_wide-98a0a2537ca98aae6acce6a42450a4749ef4a35f.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560-54d1bfb8c553890bfde3dde8a1649a2bfc8abaa5.jpg",
+"height": "1420",
+"width": "1894"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_sq-e0f69bc514e2e179f9b4b53f364ddfeaa5689814.jpg",
+"height": "1352",
+"width": "1352"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_wide-98a0a2537ca98aae6acce6a42450a4749ef4a35f.jpg",
+"height": "1157",
+"width": "2058",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/25/gettyimages-975490560_wide-98a0a2537ca98aae6acce6a42450a4749ef4a35f.jpg",
+"height": "1157",
+"width": "2058"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "632245235",
+"type": "internal",
+"caption": {
+"$text": "Michael Cohen Recorded A Conversation With Trump About Paying An Ex-Playboy Model"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/21/631098632/michael-cohen-recorded-a-conversation-with-trump-about-paying-an-ex-playboy-mode?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=631098632"
+}
+]
+},
+{
+"id": "632247371",
+"type": "internal",
+"caption": {
+"$text": "Giuliani Says Michael Cohen 'Should Cooperate' With Prosecutors"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/08/627107199/giuliani-says-michael-cohen-should-cooperate-with-prosecutors?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=627107199"
+}
+]
+},
+{
+"id": "632247636",
+"type": "internal",
+"caption": {
+"$text": "Were Trump Lawyer Cohen's Actions Legal?"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/05/11/609903734/were-trump-lawyer-cohens-actions-legal?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=609903734"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "President Trump lashed out at his former lawyer Michael Cohen on Wednesday after Cohen released a tape on which the two discuss buying the story of a woman who said she had an affair with Trump — although his current lawyer denies that payment took place."
+},
+{
+"num": "2",
+"$text": "\"What kind of lawyer would tape a client?\" Trump asked in a Twitter post on Wednesday."
+},
+{
+"num": "3",
+"$text": "He also suggested there was more to the recording than so far has been aired: \"So sad! Is this a first, never heard of it before? Why was the tape so abruptly terminated (cut) while I was presumably saying positive things?\""
+},
+{
+"num": "4",
+"$text": "Cohen released the tape of himself seeming to discuss with then-candidate Trump payments to a former Playboy model who alleges she had an affair with Trump while he was married to his current wife, first lady Melania Trump."
+},
+{
+"num": "5",
+"$text": "Trump denies the affair; the former model, Karen McDougal, has given extensive interviews about it."
+},
+{
+"num": "6",
+"$text": "The existence of the tape and the substance of its conversation had been public, but broadcast networks have begun airing it since it was obtained by CNN on Tuesday night."
+},
+{
+"num": "7",
+"$text": "American Media Inc, the parent company of the National Enquirer, purchased the rights to McDougal's story for $150,000 but never published the story. The practice has been described as \"catch and kill.\""
+},
+{
+"num": "8",
+"$text": "On the tape, Trump and Cohen can be heard discussing payments to AMI Chairman David Pecker, a friend of Trump's."
+},
+{
+"num": "9",
+"$text": "\"I need to open up a company for the transfer of all that info regarding our friend David,\" Cohen says. Trump then asks, \"What financing?\" Cohen replies, \"We'll have to pay.\" The tape becomes difficult to understand at that point. Trump appears to say, \"Pay with cash,\" but Trump attorney Rudy Giuliani released a transcript in which he alleges Trump says \"Don't pay with cash.\""
+},
+{
+"num": "10",
+"$text": "Giuliani has said that Cohen ultimately never made the payment that Cohen discussed with Trump."
+},
+{
+"num": "11",
+"$text": "Trump has admitted paying — via Cohen — another woman who has alleged a sexual relationship with him: porn actress Stormy Daniels, although Trump denies there was a relationship."
+},
+{
+"num": "12",
+"$text": "The company that Cohen set up to make the Daniels payment has been connected to payments from a number of corporations seeking access to Trump early in his administration. Cohen is facing criminal charges connected to his business practices in federal court in New York City. [Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "President Trump lashed out at his former lawyer Michael Cohen on Wednesday after Cohen released a tape on which the two discuss buying the story of a woman who said she had an affair with Trump — although his current lawyer denies that payment took place."
+},
+{
+"num": "2",
+"$text": "\"What kind of lawyer would tape a client?\" Trump <a href=\"https://twitter.com/realDonaldTrump/status/1022097879253635072\">asked in a Twitter post</a> on Wednesday."
+},
+{
+"num": "3",
+"$text": "He also suggested there was more to the recording than so far has been aired: \"So sad! Is this a first, never heard of it before? Why was the tape so abruptly terminated (cut) while I was presumably saying positive things?\""
+},
+{
+"num": "4",
+"$text": "Cohen released the tape of himself seeming to discuss with then-candidate Trump payments to a former Playboy model who alleges she had an affair with Trump while he was married to his current wife, first lady Melania Trump."
+},
+{
+"num": "5",
+"$text": "Trump denies the affair; the former model, Karen McDougal, <a href=\"https://www.cnn.com/2018/03/23/politics/karen-mcdougal-anderson-cooper-interview-highlights/index.html\">has given extensive interviews about it</a>."
+},
+{
+"num": "6",
+"$text": "The existence of the tape and the substance of its conversation had been public, but broadcast networks have begun airing it since it was obtained by CNN on Tuesday night."
+},
+{
+"num": "7",
+"$text": "American Media Inc, the parent company of the <em>National Enquirer</em>, purchased the rights to McDougal's story for $150,000 but never published the story. The practice has been described as \"<a href=\"https://www.newyorker.com/news/news-desk/donald-trump-a-playboy-model-and-a-system-for-concealing-infidelity-national-enquirer-karen-mcdougal\">catch and kill.</a>\""
+},
+{
+"num": "8",
+"$text": "On the tape, Trump and Cohen can be heard discussing payments to AMI Chairman David Pecker, a friend of Trump's."
+},
+{
+"num": "9",
+"$text": "\"I need to open up a company for the transfer of all that info regarding our friend David,\" Cohen says. Trump then asks, \"What financing?\" Cohen replies, \"We'll have to pay.\" The tape becomes difficult to understand at that point. Trump appears to say, \"Pay with cash,\" but Trump attorney Rudy Giuliani released a transcript in which he alleges Trump says \"Don't pay with cash.\""
+},
+{
+"num": "10",
+"$text": "Giuliani has said that Cohen ultimately never made the payment that Cohen discussed with Trump."
+},
+{
+"num": "11",
+"$text": "Trump has admitted paying — via Cohen — another woman who has alleged a sexual relationship with him: porn actress Stormy Daniels, although Trump denies there was a relationship."
+},
+{
+"num": "12",
+"$text": "The company that Cohen set up to make the Daniels payment has been connected to payments from a number of corporations seeking access to Trump early in his administration. Cohen is facing criminal charges connected to his business practices in federal court in New York City.  <div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Trump+On+Recording+Released+By+Cohen%3A+%27What+Kind+Of+A+Lawyer+Would+Tape+A+Client%3F%27&utme=8(APIKey)9()\"/></div>"
+}
+]
+},
+"externalAsset": [
+{
+"id": "632223211",
+"type": "Twitter",
+"url": {
+"$text": "https://twitter.com/realDonaldTrump/status/1022097879253635072"
+},
+"oEmbed": {
+"$text": "1022097879253635072"
+},
+"externalId": {
+"$text": "1022097879253635072"
+},
+"credit": {},
+"parameters": {},
+"caption": {}
+}
+]
+},
+{
+"id": "631999084",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/631999084/jazz-legend-wayne-shorter-announces-emanon-a-multiverse-inspired-triple-album?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=631999084"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2JQ1ecd"
+}
+],
+"title": {
+"$text": "Jazz Legend Wayne Shorter Announces 'Emanon,' A Multiverse-Inspired Triple Album"
+},
+"partnerId": {
+"$text": "631999084"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Grammy-winning saxophonist and composer Wayne Shorter has long loved science fiction and comic books — his new work, <em>Emanon</em>, he's fused those passions into three-disc album and graphic novel."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Music News"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_sq-964748cc54f15082f1c2dee1a91e795df9f10a1f.jpg?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_sq-964748cc54f15082f1c2dee1a91e795df9f10a1f.jpg?s=11"
+},
+"provider": {
+"$text": "AFP/Getty Images"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 10:00:17 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 10:18:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 10:18:39 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "313",
+"orgAbbr": "WBGO",
+"name": {
+"$text": "WBGO"
+},
+"website": {
+"$text": "http://www.wbgo.org"
+}
+}
+],
+"parent": [
+{
+"id": "1106",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Music News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/music-news/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1106&meta=inherit"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit"
+}
+]
+},
+{
+"id": "1002",
+"type": "topic",
+"title": {
+"$text": "Home Page Top Stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1002&meta=inherit"
+}
+]
+},
+{
+"id": "92756586",
+"type": "series",
+"title": {
+"$text": "Jazz"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/92756586/jazz?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=92756586&meta=inherit"
+}
+]
+},
+{
+"id": "15294444",
+"type": "artist",
+"title": {
+"$text": "Wayne Shorter"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/artists/15294444/wayne-shorter?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=15294444&meta=inherit"
+}
+]
+},
+{
+"id": "1108",
+"type": "topic",
+"title": {
+"$text": "New Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/new-music/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1108&meta=inherit"
+}
+]
+},
+{
+"id": "1106",
+"type": "topic",
+"title": {
+"$text": "Music News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/music-news/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1106&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "632042498",
+"name": {
+"personId": "510604589",
+"$text": "Nate Chinen"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/510604589/nate-chinen?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=510604589&meta=inherit"
+}
+]
+}
+],
+"image": [
+{
+"id": "632006869",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_wide-156e63725e7f06a67ba6c4ae2740f6af6949285f.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Jazz musician Wayne Shorter performs on the stage of the 51st edition of \"Jazz a Juan\" a Jazz music festival on July 15, 2011 in Juan-les-Pins, Antibes."
+},
+"caption": {
+"$text": "Jazz musician Wayne Shorter performs on the stage of the 51st edition of \"Jazz a Juan\" a Jazz music festival on July 15, 2011 in Juan-les-Pins, Antibes."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "AFP/Getty Images"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_wide-156e63725e7f06a67ba6c4ae2740f6af6949285f.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331-1e6f2853e17e24277bb83b74ae3fb684b8d3a564.jpg",
+"height": "3090",
+"width": "4121"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_sq-964748cc54f15082f1c2dee1a91e795df9f10a1f.jpg",
+"height": "3090",
+"width": "3091"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_wide-156e63725e7f06a67ba6c4ae2740f6af6949285f.jpg",
+"height": "2531",
+"width": "4500",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/gettyimages-119271331_wide-156e63725e7f06a67ba6c4ae2740f6af6949285f.jpg",
+"height": "2531",
+"width": "4500"
+}
+]
+},
+{
+"id": "632010513",
+"type": "standard",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_custom-e177e77bd8b8dbc8178f78c622870149984efb43.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Cover art for Wayne Shorter's \"Emanon\""
+},
+"caption": {
+"$text": "Cover art for Wayne Shorter's \"Emanon\""
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_custom-e177e77bd8b8dbc8178f78c622870149984efb43.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover-deeaf49c1a635cf501b9e15b4e2131ef4e612896.jpg",
+"height": "1756",
+"width": "2341"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_sq-cb320d6fef04ba391a63a9a309d1f48bf68c00f8.jpg",
+"height": "2341",
+"width": "2341"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_wide-636408d14b1058f4c2a72eb3d885a7737cbb8304.jpg",
+"height": "1317",
+"width": "2341"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_custom-e177e77bd8b8dbc8178f78c622870149984efb43.jpg",
+"height": "3115",
+"width": "2335"
+},
+{
+"type": "custom",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayneshorter_emanon_cover_custom-e177e77bd8b8dbc8178f78c622870149984efb43.jpg",
+"height": "3115",
+"width": "2335",
+"primary": "true"
+}
+]
+},
+{
+"id": "632011306",
+"type": "standard",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2_wide-40895549308edfc0de266fcae90e128bfb723559.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "wayne shorter"
+},
+"caption": {},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2_wide-40895549308edfc0de266fcae90e128bfb723559.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2-d59e7abdca156843b6a05cc3d76c855ff6558ac4.jpg",
+"height": "4493",
+"width": "5991"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2_sq-ed516ab7968b83f7935f433b04c8c7fb065702cd.jpg",
+"height": "4493",
+"width": "4493"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2_wide-40895549308edfc0de266fcae90e128bfb723559.jpg",
+"height": "4493",
+"width": "7989",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/wayne-shorter-pic-2_wide-40895549308edfc0de266fcae90e128bfb723559.jpg",
+"height": "4493",
+"width": "7989"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "632245436",
+"type": "internal",
+"caption": {
+"$text": "Wayne's World: Wayne Shorter With The Jazz At Lincoln Center Orchestra"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2015/09/24/442917824/waynes-world-wayne-shorter-with-the-jazz-at-lincoln-center-orchestra?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=442917824"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Wayne Shorter was 15 when he first wrote and illustrated his own comic book, in blue ballpoint pen. That was in 1949, and Shorter has traveled great distances since, becoming an influential saxophonist, a 10-time Grammy winner and one of the most highly regarded composers in modern jazz."
+},
+{
+"num": "2",
+"$text": "But as any fan of Shorter's can attest, he has held onto his teenage fixation with superheroes and sci-fi, as well as the comic book arts — so it's fitting that his highly anticipated next release, Emanon, releasing on Blue Note on Aug. 24, will include an original graphic novel — a cosmic-heroic odyssey written by Shorter with help from the screenwriter Monica Sly, and featuring art by Randy DuBurke — along with three discs of new music."
+},
+{
+"num": "3",
+"$text": "The music throughout is performed by the Wayne Shorter Quartet, a working unit for the better part of two decades, consisting of Shorter on soprano and tenor saxophones, Danilo Pérez on piano, John Patitucci on bass and Brian Blade on drums. Disc one also features the Orpheus Chamber Orchestra, a 34-piece ensemble, performing a suite composed and arranged by Shorter. (They recorded this music in 2013, shortly after performing it at Carnegie Hall.)"
+},
+{
+"num": "4",
+"$text": "Each of the four movements in that suite ­— \"Pegasus,\" \"Prometheus Unbound,\" \"Lotus\" and \"The Three Marias\" — has a corresponding theme in the graphic novel, which draws inspiration from the concept of a multiverse and features a character named Emanon, an action-hero proxy of Shorter. The story, which alludes to dystopian oppression, is clearly informed by the saxophonist's anchoring faith in Buddhist teachings."
+},
+{
+"num": "5",
+"$text": "\"Emanon\" — \"no name\" spelled backwards — was also the title of a composition from the bebop era, as Shorter acknowledges. \"When Dizzy Gillespie had a piece of music in the late 40s called 'Emanon,'\" he says in a press release for the album, \"it hit me way back then as a teenager: 'No name' means a whole lot. The connection with Emanon and artists and other heroes is the quest to find originality, which is probably the closest thing you can get to creation.\""
+},
+{
+"num": "6",
+"$text": "Shorter adds: \"Ralph Ellison's Invisible Man and some comic heroes, they lose their power or identity and become something called human, so that a human being has to do the same thing that Superman and all of them do.\""
+},
+{
+"num": "7"
+},
+{
+"num": "8",
+"$text": "Emanon will be released Aug. 24, and is available for preorder through Blue Note. [Copyright 2018 WBGO]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Wayne Shorter was 15 when he first <a href=\"https://twitter.com/Wayne_Shorter/status/826905329971687424\">wrote and illustrated his own comic book</a>, in blue ballpoint pen. That was in 1949, and Shorter has traveled great distances since, becoming an influential saxophonist, a 10-time Grammy winner and one of the most highly regarded composers in modern jazz."
+},
+{
+"num": "2",
+"$text": "But as any fan of Shorter's can attest, he has held onto his teenage fixation with superheroes and sci-fi, as well as the comic book arts — so it's fitting that his highly anticipated next release, <em>Emanon</em>,<em> r</em>eleasing on Blue Note on Aug. 24,<em> </em>will include an original graphic novel — a cosmic-heroic odyssey written by Shorter with help from the screenwriter Monica Sly, and featuring art by <a href=\"http://www.randyduburke.com/\">Randy DuBurke</a> — along with three discs of new music."
+},
+{
+"num": "3",
+"$text": "The music throughout is performed by the Wayne Shorter Quartet, a working unit for the better part of two decades, consisting of Shorter on soprano and tenor saxophones, Danilo Pérez on piano, John Patitucci on bass and Brian Blade on drums. Disc one also features the Orpheus Chamber Orchestra, a 34-piece ensemble, performing a suite composed and arranged by Shorter. (They recorded this music in 2013, shortly after performing it at Carnegie Hall.)"
+},
+{
+"num": "4",
+"$text": "Each of the four movements in that suite ­— \"Pegasus,\" \"Prometheus Unbound,\" \"Lotus\" and \"The Three Marias\" — has a corresponding theme in the graphic novel, which draws inspiration from the concept of a multiverse and features a character named Emanon, an action-hero proxy of Shorter. The story, which alludes to dystopian oppression, is clearly informed by the saxophonist's anchoring faith in Buddhist teachings."
+},
+{
+"num": "5",
+"$text": "\"Emanon\" — \"no name\" spelled backwards — was also the title of a composition from the bebop era, as Shorter acknowledges. \"When Dizzy Gillespie had a piece of music in the late 40s called 'Emanon,'\" he says in a press release for the album, \"it hit me way back then as a teenager: 'No name' means a whole lot. The connection with Emanon and artists and other heroes is the quest to find originality, which is probably the closest thing you can get to creation.\""
+},
+{
+"num": "6",
+"$text": "Shorter adds: \"Ralph Ellison's Invisible Man and some comic heroes, they lose their power or identity and become something called human, so that a human being has to do the same thing that Superman and all of them do.\""
+},
+{
+"num": "7",
+"$text": "<hr />"
+},
+{
+"num": "8",
+"$text": "Emanon<em> will be released Aug. 24, and is available for preorder </em><a href=\"https://WayneShorter.lnk.to/Emanon\"><em>through Blue Note</em></a><em>.</em>  <div class=\"fullattribution\">Copyright 2018 WBGO. To see more, visit <a href=\"http://www.wbgo.org\">WBGO</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Jazz+Legend+Wayne+Shorter+Announces+%27Emanon%2C%27+A+Multiverse-Inspired+Triple+Album&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "632219813",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632219813/sergio-marchionne-who-guided-fiat-chryslers-dramatic-turnaround-dies?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632219813"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2uQTCkQ"
+}
+],
+"title": {
+"$text": "Sergio Marchionne, Who Guided Fiat Chrysler's Dramatic Turnaround, Dies "
+},
+"partnerId": {
+"$text": "632219813"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Fiat Chrysler rushed to name a new CEO last weekend after it became clear that Marchionne would not be able to return to work."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Economy"
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 09:40:53 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:40:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 09:40:53 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1017",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Economy"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/economy/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1017&meta=inherit"
+}
+]
+},
+{
+"id": "593868387",
+"type": "collection",
+"title": {
+"$text": "Newsdesk Reporting Team"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/593868387/breaking-news-team?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=593868387&meta=inherit"
+}
+]
+},
+{
+"id": "1124",
+"type": "topic",
+"title": {
+"$text": "Europe"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/europe/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1124&meta=inherit"
+}
+]
+},
+{
+"id": "1017",
+"type": "topic",
+"title": {
+"$text": "Economy"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/economy/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1017&meta=inherit"
+}
+]
+},
+{
+"id": "1006",
+"type": "topic",
+"title": {
+"$text": "Business"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/business/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1006&meta=inherit"
+}
+]
+},
+{
+"id": "1003",
+"type": "topic",
+"title": {
+"$text": "National"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/national/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1003&meta=inherit"
+}
+]
+},
+{
+"id": "1001",
+"type": "topic",
+"title": {
+"$text": "News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/news/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1001&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "632221899",
+"name": {
+"personId": "14562108",
+"$text": "Bill Chappell"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/14562108/bill-chappell?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=14562108&meta=inherit"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "632219936",
+"type": "internal",
+"caption": {
+"$text": "Fiat Chrysler's New CEO Faces Twin Challenges: China And Tariffs"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632092653/fiat-chryslers-new-ceo-faces-twin-challenges-china-and-tariffs?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632092653"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Sergio Marchionne, who led Fiat Chrysler back to prosperity in the face of a stubborn recession and a host of other challenges, has died. He was 66. Just days ago, he stepped down from his role leading one of the world's largest car companies due to health problems."
+},
+{
+"num": "2",
+"$text": "Fiat Chrysler rushed to name a new CEO last weekend after it became clear that Marchionne would not be able to return to work. The widely admired executive had suffered complications from surgery, and his health rapidly deteriorated."
+},
+{
+"num": "3",
+"$text": "Marchionne was a visionary at a time when the auto industry was sorely in need of one."
+},
+{
+"num": "4",
+"$text": "He became Fiat's chief executive in 2004. At the time, the company had been hemorrhaging billions of dollars annually. Marchionne brought it back to profitability in just one year, recording income of nearly 1.5 billion euros in 2005. In the process, he slimmed down Fiat and sliced away many of its debts. "
+},
+{
+"num": "5",
+"$text": "Five years later, Marchionne became the CEO of the combined Fiat Chrysler company, as U.S. carmakers were struggling to escape the fallout of a crisis in the credit and housing industries and a growing recession."
+},
+{
+"num": "6",
+"$text": "The car that turned it all around for Chrysler, he said, was the 2010 Jeep Grand Cherokee."
+},
+{
+"num": "7",
+"$text": "\"Because it was unexpected,\" Marchionne said in a 2013 interview with NPR. \"It was of a quality that nobody thought that Chrysler could produce.\""
+},
+{
+"num": "8",
+"$text": "The cars that followed, he said, were simply refinements, as the company embraced what he called \"a process of commitment to quality and to excellence.\""
+},
+{
+"num": "9",
+"$text": "As Dustin Dwyer reports for NPR, \"Fiat Chrysler repaid the billions of dollars in U.S. government loans six years ahead of schedule and with interest. Nearly everyone credited Marchionne.\""
+},
+{
+"num": "10",
+"$text": "Under Marchionne's guidance, Fiat Chrysler found new success in the long-popular Jeep brand and built on the Dodge Challenger (reintroduced in 2008) to become a player in the resurgent muscle car market. The company also brought Fiat cars back to North America. The Fiat 500 compact became a success story – even ferrying Pope Francis during his U.S. visit. More recently began selling Alfa Romeo cars in the North American market again."
+},
+{
+"num": "11",
+"$text": "Other gains were reflected in the company's healthy balance sheets and in its corporate strategy. Fiat Chrysler obtained 100 percent ownership of Chrysler in 2014; two years later, it spun off its Ferrari brand. The automaker has also expanded into important markets – building Jeep Cherokees in China and the Jeep Compass in India."
+},
+{
+"num": "12",
+"$text": "When it was announced that Marchionne's failing health would force him to step aside, John Elkann, the heir to legendary Fiat boss Gianni Agnelli issued a statement about the man he called \"a mentor and above all a true friend.\" Today, Elkann said, \"Unfortunately, what we feared has come to pass.\""
+},
+{
+"num": "13",
+"$text": "Discussing Marchionne's legacy last week, Elkann wrote:"
+},
+{
+"num": "14"
+},
+{
+"num": "15",
+"$text": "\"He taught us to think differently and to have the courage to change, often in unconventional ways, always acting with a sense of responsibility for the companies and their people."
+},
+{
+"num": "16",
+"$text": "\"He taught us that the only question that's worth asking oneself at the end of every day is whether we have been able to change something for the better, whether we have been able to make a difference.\""
+},
+{
+"num": "17"
+},
+{
+"num": "18",
+"$text": "Fiat Chrysler is now led by new CEO Michael Manley, the former head of its Jeep division."
+},
+{
+"num": "19",
+"$text": "\"There is no doubt that Sergio was a very special, unique man,\" Manley said Wednesday morning on a conference call with investors. \"And there is no doubt that he's going to be sorely missed.\""
+},
+{
+"num": "20",
+"$text": "Marchionne's death was announced on the same day that the company he nursed back to health reported its quarterly earnings. The results include an adjusted net profit of more than $1.1 billion in the second quarter of 2018. [Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Sergio Marchionne, who led Fiat Chrysler back to prosperity in the face of a stubborn recession and a host of other challenges, has died. He was 66. Just days ago, he stepped down from his role leading one of the world's largest car companies due to health problems."
+},
+{
+"num": "2",
+"$text": "Fiat Chrysler rushed to name a new CEO last weekend after it became clear that Marchionne would not be able to return to work. The widely admired executive had suffered complications from surgery, and his health rapidly deteriorated."
+},
+{
+"num": "3",
+"$text": "Marchionne was a visionary at a time when the auto industry was sorely in need of one."
+},
+{
+"num": "4",
+"$text": "He became Fiat's chief executive in 2004. At the time, the company had been hemorrhaging billions of dollars annually. Marchionne brought it back to profitability in just one year, recording income of nearly 1.5 billion euros in 2005. In the process, he slimmed down Fiat and sliced away many of its debts. "
+},
+{
+"num": "5",
+"$text": "Five years later, Marchionne became the CEO of the combined Fiat Chrysler company, as U.S. carmakers were struggling to escape the fallout of a crisis in the credit and housing industries and a growing recession."
+},
+{
+"num": "6",
+"$text": "The car that turned it all around for Chrysler, he said, was the 2010 Jeep Grand Cherokee."
+},
+{
+"num": "7",
+"$text": "\"Because it was unexpected,\" Marchionne said in a 2013 interview with NPR. \"It was of a quality that nobody thought that Chrysler could produce.\""
+},
+{
+"num": "8",
+"$text": "The cars that followed, he said, were simply refinements, as the company embraced what he called \"a process of commitment to quality and to excellence.\""
+},
+{
+"num": "9",
+"$text": "As Dustin Dwyer reports for NPR, \"Fiat Chrysler repaid the billions of dollars in U.S. government loans six years ahead of schedule and with interest. Nearly everyone credited Marchionne.\""
+},
+{
+"num": "10",
+"$text": "Under Marchionne's guidance, Fiat Chrysler found new success in the long-popular Jeep brand and built on the Dodge Challenger (reintroduced in 2008) to become a player in the resurgent muscle car market. The company also brought Fiat cars back to North America. The Fiat 500 compact became a success story – even ferrying Pope Francis during his U.S. visit. More recently began selling Alfa Romeo cars in the North American market again."
+},
+{
+"num": "11",
+"$text": "Other gains were reflected in the company's healthy balance sheets and in its corporate strategy. Fiat Chrysler obtained 100 percent ownership of Chrysler in 2014; two years later, it spun off its Ferrari brand. The automaker has also expanded into important markets – building Jeep Cherokees in China and the Jeep Compass in India."
+},
+{
+"num": "12",
+"$text": "When it was announced that Marchionne's failing health would force him to step aside, John Elkann, the heir to legendary Fiat boss Gianni Agnelli issued a statement about the man he called \"a mentor and above all a true friend.\" Today, Elkann said, \"Unfortunately, what we feared has come to pass.\""
+},
+{
+"num": "13",
+"$text": "Discussing Marchionne's legacy last week, Elkann wrote:"
+},
+{
+"num": "14",
+"$text": "<blockquote>"
+},
+{
+"num": "15",
+"$text": "\"He taught us to think differently and to have the courage to change, often in unconventional ways, always acting with a sense of responsibility for the companies and their people."
+},
+{
+"num": "16",
+"$text": "\"He taught us that the only question that's worth asking oneself at the end of every day is whether we have been able to change something for the better, whether we have been able to make a difference.\""
+},
+{
+"num": "17",
+"$text": "</blockquote>"
+},
+{
+"num": "18",
+"$text": "Fiat Chrysler is now led by new CEO Michael Manley, the former head of its Jeep division."
+},
+{
+"num": "19",
+"$text": "\"There is no doubt that Sergio was a very special, unique man,\" Manley said Wednesday morning on a conference call with investors. \"And there is no doubt that he's going to be sorely missed.\""
+},
+{
+"num": "20",
+"$text": "Marchionne's death was announced on the same day that the company he nursed back to health reported its quarterly earnings. <a href=\"https://www.fcagroup.com/en-US/media_center/fca_press_release/FiatDocuments/2018/july/FCA_2018_SECOND_QUARTER_RESULTS.pdf\">The results include</a> an adjusted net profit of more than $1.1 billion in the second quarter of 2018.  <div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Sergio+Marchionne%2C+Who+Guided+Fiat+Chrysler%27s+Dramatic+Turnaround%2C+Dies+&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "631907136",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/world-cafe/2018/07/25/631907136/amos-lee-illuminates-nature-with-no-more-darkness-no-more-light?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=631907136"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2uJWO1G"
+}
+],
+"title": {
+"$text": "Amos Lee Illuminates Nature With 'No More Darkness, No More Light' "
+},
+"partnerId": {
+"$text": "631907136"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "If Amos Lee sings in a forest and no one is around to hear it, does he really make a sound? "
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "World Cafe"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_sq-d8425abafd8c0a6216a16471af07146aa1ed8bdb.png?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_sq-d8425abafd8c0a6216a16471af07146aa1ed8bdb.png?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artist"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 09:30:47 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:30:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 09:30:47 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "715",
+"orgAbbr": "WXPN-FM",
+"name": {
+"$text": "XPN"
+},
+"website": {
+"$text": "http://www.xpn.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1039",
+"type": "primaryTopic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit"
+}
+]
+},
+{
+"id": "460687833",
+"type": "category",
+"title": {
+"$text": "Performances"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/world-cafe/460687833/performances?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=460687833&meta=inherit"
+}
+]
+},
+{
+"id": "216835831",
+"type": "blog",
+"slug": "true",
+"title": {
+"$text": "World Cafe"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/world-cafe/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=216835831&meta=inherit"
+}
+]
+},
+{
+"id": "15355761",
+"type": "artist",
+"title": {
+"$text": "Amos Lee"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/artists/15355761/amos-lee?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=15355761&meta=inherit"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music/genres/rock/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit"
+}
+]
+},
+{
+"id": "1110",
+"type": "topic",
+"title": {
+"$text": "Music Videos"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/music-videos/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1110&meta=inherit"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "631919453",
+"name": {
+"personId": "5393958",
+"$text": "Bruce Warren"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/5393958/bruce-warren?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=5393958&meta=inherit"
+}
+]
+}
+],
+"image": [
+{
+"id": "631920601",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Amos Lee performing \"No More Darkness, No More Light\""
+},
+"caption": {
+"$text": "Amos Lee performing \"No More Darkness, No More Light\""
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Still from video"
+},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm-d38cdc1ed436b147d52f31f00109d0ec9282b389.png",
+"height": "994",
+"width": "1325"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_sq-d8425abafd8c0a6216a16471af07146aa1ed8bdb.png",
+"height": "994",
+"width": "994"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"height": "888",
+"width": "1579",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"height": "888",
+"width": "1579"
+},
+{
+"type": "brick",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_brick-2b489c726359f227b3667ac2f06dba69d79519a4.png",
+"height": "805",
+"width": "1750"
+}
+]
+},
+{
+"id": "631967264",
+"type": "standard",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Amos Lee's \"No More Darkness, No More Light.\""
+},
+"caption": {
+"$text": "Amos Lee's \"No More Darkness, No More Light.\""
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "YouTube"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm-d38cdc1ed436b147d52f31f00109d0ec9282b389.png",
+"height": "958",
+"width": "1278"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_sq-d8425abafd8c0a6216a16471af07146aa1ed8bdb.png",
+"height": "994",
+"width": "994"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"height": "888",
+"width": "1579",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_wide-7bbf6ef478cd0429ae8c19bd005aec621acedf59.png",
+"height": "888",
+"width": "1579"
+},
+{
+"type": "brick",
+"src": "https://media.npr.org/assets/img/2018/07/24/screen-shot-2018-07-24-at-1.09.38-pm_brick-2b489c726359f227b3667ac2f06dba69d79519a4.png",
+"height": "805",
+"width": "1750"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Philadelphia singer-songwriter Amos Lee is preparing for a new chapter in his life. His new album My New Moon is being released on Aug. 31 on his new label, Dualtone Records, and comes one month short of two years since his last album, Spirit. Lee's upcoming album, his seventh since he released his self-titled debut in 2005, continues to showcase his soulful voice and empathetic lyrics. It was recorded at Zeitgeist Studio in Los Angeles and produced by Tony Berg, with contributions from multi-instrumentalists Ethan Gruska and Blake Mills, Benmont Tench and Patrick Warren on keyboards, and Greg Leisz on pedal steel guitar."
+},
+{
+"num": "2",
+"$text": " World Cafe premieres a stunning acoustic performance of Lee's \"No More Darkness, No More Light,\" a song whose final incarnation was inspired by the tragic shooting at Marjory Stoneman Douglas High School in Parkland, Fl. last February. Lee told Billboard that the song originally had a different title and lyrics, but always had its graceful African-influenced groove and melody."
+},
+{
+"num": "3",
+"$text": "He told Billboard:"
+},
+{
+"num": "4"
+},
+{
+"num": "5",
+"$text": "\"The day after Parkland happened, I was just like — as I think we all were and continue to be — overcome with what the kids were saying and what our history in the United States is and what I feel like some of our obligations to each other are, and I rewrote the whole song,\" Lee says. \"I didn't tell Tony (Berg) I did it, and I went in the next day and said, 'I think I rewrote the song.' So he ran the tape down and we did it, and ... thank you to those kids for sharing their stories with us. Hopefully there's some constructive feeling about this tragedy.\""
+},
+{
+"num": "6"
+},
+{
+"num": "7",
+"$text": "Watch the acoustic version of \"No More Darkness, No More Light.\" Directed by filmmaker and photographer Aaron Farrington at Estouteville Farm outside of Charlottesville, Va., it captures Lee in a warm, beautiful, au natural setting. Stripped away is the liquid, hypnotic groove of the studio version, but all in service to the message and lyrics of the song."
+},
+{
+"num": "8"
+},
+{
+"num": "9",
+"$text": "My New Moon is out on Aug. 31 on Dualtone Records. [Copyright 2018 XPN]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Philadelphia singer-songwriter <a href=\"https://www.npr.org/artists/15355761/amos-lee\">Amos Lee</a> is preparing for a new chapter in his life. His new album <em>My New Moon</em> is being released on Aug. 31 on his new label, Dualtone Records, and comes one month short of two years since his last album, <em>Spirit</em>. Lee's upcoming album, his seventh since he released his self-titled debut in 2005, continues to showcase his soulful voice and empathetic lyrics. It was recorded at Zeitgeist Studio in Los Angeles and produced by Tony Berg, with contributions from multi-instrumentalists <a href=\"https://www.kcrw.com/music/shows/morning-becomes-eclectic/ethan-gruska\">Ethan Gruska</a> and <a href=\"https://www.npr.org/artists/453239681/blake-mills\">Blake Mills</a>, <a href=\"https://www.npr.org/sections/world-cafe/2014/03/07/286855726/benmont-tench-on-world-cafe\">Benmont Tench</a> and Patrick Warren on keyboards, and Greg Leisz on pedal steel guitar."
+},
+{
+"num": "2",
+"$text": " <em>World Cafe</em> premieres a stunning acoustic performance of Lee's \"No More Darkness, No More Light,\" a song whose final incarnation was inspired by the tragic shooting at <a href=\"https://www.npr.org/tags/586217256/marjory-stoneman-douglas-high-school\">Marjory Stoneman Douglas High School</a> in Parkland, Fl. last February. Lee told <a href=\"https://www.billboard.com/articles/columns/rock/8459416/amos-lee-no-more-darkness-no-more-light\"><em>Billboard</em></a> that the song originally had a different title and lyrics, but always had its graceful African-influenced groove and melody."
+},
+{
+"num": "3",
+"$text": "He told <em>Billboard</em>:"
+},
+{
+"num": "4",
+"$text": "<blockquote>"
+},
+{
+"num": "5",
+"$text": "\"The day after Parkland happened, I was just like — as I think we all were and continue to be — overcome with what the kids were saying and what our history in the United States is and what I feel like some of our obligations to each other are, and I rewrote the whole song,\" Lee says. \"I didn't tell Tony (Berg) I did it, and I went in the next day and said, 'I think I rewrote the song.' So he ran the tape down and we did it, and ... thank you to those kids for sharing their stories with us. Hopefully there's some constructive feeling about this tragedy.\""
+},
+{
+"num": "6",
+"$text": "</blockquote>"
+},
+{
+"num": "7",
+"$text": "Watch the acoustic version of \"No More Darkness, No More Light.\" Directed by filmmaker and photographer Aaron Farrington at Estouteville Farm outside of Charlottesville, Va., it captures Lee in a warm, beautiful, au natural setting. Stripped away is the liquid, hypnotic groove of the studio version, but all in service to the message and lyrics of the song."
+},
+{
+"num": "8",
+"$text": "<hr />"
+},
+{
+"num": "9",
+"$text": "My New Moon <em>is out on Aug. 31 on </em><a href=\"https://www.dualtonestore.com/collections/amos-lee\"><em>Dualtone Records</em></a><em>.</em>  <div class=\"fullattribution\">Copyright 2018 XPN. To see more, visit <a href=\"http://www.xpn.org/\">XPN</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Amos+Lee+Illuminates+Nature+With+%27No+More+Darkness%2C+No+More+Light%27+&utme=8(APIKey)9()\"/></div>"
+}
+]
+},
+"externalAsset": [
+{
+"id": "631909393",
+"type": "YouTube",
+"url": {
+"$text": "https://www.youtube.com/watch?v=UStt6kIRFII"
+},
+"oEmbed": {
+"$text": "https://www.youtube.com/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DUStt6kIRFII"
+},
+"externalId": {
+"$text": "UStt6kIRFII"
+},
+"credit": {},
+"parameters": {},
+"caption": {}
+}
+]
+},
+{
+"id": "631937439",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/631937439/the-thistle-shamrock-music-migration?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=631937439"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2JQnEKr"
+}
+],
+"title": {
+"$text": "The Thistle & Shamrock: Music Migration "
+},
+"partnerId": {
+"$text": "631937439"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Join Fiona Ritchie to uncover the deep roots that run through a family tree of songs from Scotland and Ireland to the Southern Appalachians."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "The Thistle & Shamrock"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_sq-30ce7e912dc131ec396e1349878b6b4b761bf619.jpg?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_sq-30ce7e912dc131ec396e1349878b6b4b761bf619.jpg?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artist"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 09:00:47 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 10:06:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 10:06:28 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1039",
+"type": "primaryTopic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit"
+}
+]
+},
+{
+"id": "603525292",
+"type": "artist",
+"title": {
+"$text": "Dolores Keane"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/artists/603525292/dolores-keane?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=603525292&meta=inherit"
+}
+]
+},
+{
+"id": "139999257",
+"type": "genre",
+"title": {
+"$text": "Folk"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music/genres/folk/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=139999257&meta=inherit"
+}
+]
+},
+{
+"id": "103063413",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "The Thistle & Shamrock"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/103063413/the-thistle-and-shamrock?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=103063413&meta=inherit"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/music?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit"
+}
+]
+}
+],
+"audio": [
+{
+"id": "631948969",
+"type": "primary",
+"title": {
+"$text": "Listen to the Story"
+},
+"duration": {
+"$text": "3474"
+},
+"description": {},
+"format": {
+"hlsOnDemand": {
+"$text": "https://ondemandhls.npr.org/nprhls//npr/thistle/2018/07/20180724_thistle_migration/master.m3u8"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "false"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"byline": [
+{
+"id": "631943754",
+"name": {
+"personId": "2101083",
+"$text": "Fiona Ritchie"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/2101083/fiona-ritchie?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=2101083&meta=inherit"
+}
+]
+}
+],
+"image": [
+{
+"id": "631942039",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_wide-50a539e7a3e094978bd2c7a0470de88f42e240c5.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Grammy-winning guitarist Al Petteway is featured on this week's episode of The Thistle & Shamrock."
+},
+"caption": {
+"$text": "Grammy-winning guitarist Al Petteway is featured on this week's episode of <em>The Thistle & Shamrock</em>."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_wide-50a539e7a3e094978bd2c7a0470de88f42e240c5.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars-7b7421f571c615d706842eab46e7f5ce0cdb013d.jpg",
+"height": "2846",
+"width": "3795"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_sq-30ce7e912dc131ec396e1349878b6b4b761bf619.jpg",
+"height": "2848",
+"width": "2848"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_wide-50a539e7a3e094978bd2c7a0470de88f42e240c5.jpg",
+"height": "2412",
+"width": "4288",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/al_and_guitars_wide-50a539e7a3e094978bd2c7a0470de88f42e240c5.jpg",
+"height": "2412",
+"width": "4288"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Join Fiona Ritchie to uncover the deep roots that run through a family tree of songs from Scotland and Ireland to the Southern Appalachians. The music features Al Petteway, Dolores Keane, and T with the Maggies. [Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Join Fiona Ritchie to uncover the deep roots that run through a family tree of songs from Scotland and Ireland to the Southern Appalachians. The music features Al Petteway, <a href=\"https://www.npr.org/artists/603525292/dolores-keane\">Dolores Keane</a>, and T with the Maggies.  <div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=The+Thistle+%26+Shamrock%3A+Music+Migration+&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "632213774",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632213774/u-s-farmers-feel-the-hurt-from-trumps-tariff-fight?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632213774"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2uLMo1M"
+}
+],
+"title": {
+"$text": "U.S. Farmers Feel The Hurt From Trump's Tariff Fight"
+},
+"partnerId": {
+"$text": "632213774"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Noel King talks to GOP Sen. Ben Sasse of Nebraska about the president's plan to help farmers by giving them a $12 billion aid package. NPR's Ayesha Rascoe weighs in on their conversation."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Politics"
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 08:25:00 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:36:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 09:04:00 -0400"
+},
+"audioRunByDate": {
+"$text": "Thu, 26 Jul 2018 01:00:00 -0400"
+},
+"show": [
+{
+"program": {
+"id": "3",
+"code": "ME",
+"$text": "Morning Edition"
+},
+"showDate": {
+"$text": "Wed, 25 Jul 2018 05:00:00 -0400"
+},
+"segNum": {
+"$text": "20"
+}
+}
+],
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1014",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "624244634",
+"type": "collection",
+"title": {
+"$text": "MPX Big stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/624244634/mpx-big-stories?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=624244634&meta=inherit"
+}
+]
+},
+{
+"id": "465650722",
+"type": "collection",
+"title": {
+"$text": "MPX election stories "
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/465650722/mpx-election-stories?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=465650722&meta=inherit"
+}
+]
+},
+{
+"id": "300659419",
+"type": "collection",
+"title": {
+"$text": "MPX Invest"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/300659419/mpx-b-segment?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=300659419&meta=inherit"
+}
+]
+},
+{
+"id": "632165874",
+"type": "programEpisode",
+"title": {
+"$text": "Morning Edition for July 25, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/2018/07/25/632165874/morning-edition-for-july-25-2018?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632165874&meta=inherit"
+}
+]
+},
+{
+"id": "1014",
+"type": "topic",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "3",
+"type": "program",
+"title": {
+"$text": "Morning Edition"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=3&meta=inherit"
+}
+]
+}
+],
+"associatedStory": [
+{
+"id": "632183187",
+"type": "equivalent",
+"title": {
+"$text": "Wednesday, July 25th, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632183187/wednesday-july-25th-2018"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632183187&profileTypeId=15"
+}
+]
+}
+],
+"audio": [
+{
+"id": "632215221",
+"type": "primary",
+"title": {
+"$text": "Listen to the Story"
+},
+"duration": {
+"$text": "383"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_farm_state_gop_on_tariffs.mp3?orgId=1&topicId=1014&d=383&p=3&story=632213774&ft=nprml&f="
+},
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_farm_state_gop_on_tariffs.mp3?orgId=1&topicId=1014&d=383&p=3&story=632213774&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1632215221-3c2ad0.m3u?orgId=1&topicId=1014&d=383&p=3&story=632213774&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/8632215221-ddb009.m3u?orgId=1&topicId=1014&d=383&p=3&story=632213774&ft=nprml&f="
+}
+],
+"mp4": {
+"$text": "https://ondemand.npr.org/npr-mp4/npr/me/2018/07/20180725_me_farm_state_gop_on_tariffs.mp4?orgId=1&topicId=1014&d=383&p=3&story=632213774&ft=nprml&f="
+},
+"hlsOnDemand": {
+"$text": "https://ondemandhls.npr.org/nprhls//npr/me/2018/07/20180725_me_farm_state_gop_on_tariffs/master.m3u8"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2018/07/20180725_me_farm_state_gop_on_tariffs.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "[Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=U.S.+Farmers+Feel+The+Hurt+From+Trump%27s+Tariff+Fight&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "632211333",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632211333/pompeo-to-tell-senators-about-trumps-north-korea-and-russia-summits?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632211333"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2LO2Jt8"
+}
+],
+"title": {
+"$text": "Pompeo To Tell Senators About Trump's North Korea And Russia Summits"
+},
+"partnerId": {
+"$text": "632211333"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Rachel Martin talks GOP Sen. Cory Gardner of Colorado about what he plans to ask Secretary of State Pompeo when he testifies before a Senate panel. NPR's Ayesha Rascoe weighs in on the conversation."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Politics"
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 08:13:00 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:36:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 10:05:04 -0400"
+},
+"audioRunByDate": {
+"$text": "Wed, 25 Jul 2018 01:00:00 -0400"
+},
+"show": [
+{
+"program": {
+"id": "3",
+"code": "ME",
+"$text": "Morning Edition"
+},
+"showDate": {
+"$text": "Wed, 25 Jul 2018 05:00:00 -0400"
+},
+"segNum": {
+"$text": "19"
+}
+}
+],
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1014",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "632165874",
+"type": "programEpisode",
+"title": {
+"$text": "Morning Edition for July 25, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/2018/07/25/632165874/morning-edition-for-july-25-2018?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632165874&meta=inherit"
+}
+]
+},
+{
+"id": "1014",
+"type": "topic",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "3",
+"type": "program",
+"title": {
+"$text": "Morning Edition"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=3&meta=inherit"
+}
+]
+}
+],
+"associatedStory": [
+{
+"id": "632183187",
+"type": "equivalent",
+"title": {
+"$text": "Wednesday, July 25th, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632183187/wednesday-july-25th-2018"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632183187&profileTypeId=15"
+}
+]
+}
+],
+"audio": [
+{
+"id": "632213466",
+"type": "primary",
+"title": {
+"$text": "Listen to the Story"
+},
+"duration": {
+"$text": "384"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_pompeo_senate_hearing.mp3?orgId=1&topicId=1014&d=384&p=3&story=632211333&ft=nprml&f="
+},
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_pompeo_senate_hearing.mp3?orgId=1&topicId=1014&d=384&p=3&story=632211333&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1632213466-03c4a1.m3u?orgId=1&topicId=1014&d=384&p=3&story=632211333&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/8632213466-15fcee.m3u?orgId=1&topicId=1014&d=384&p=3&story=632211333&ft=nprml&f="
+}
+],
+"mp4": {
+"$text": "https://ondemand.npr.org/npr-mp4/npr/me/2018/07/20180725_me_pompeo_senate_hearing.mp4?orgId=1&topicId=1014&d=384&p=3&story=632211333&ft=nprml&f="
+},
+"hlsOnDemand": {
+"$text": "https://ondemandhls.npr.org/nprhls//npr/me/2018/07/20180725_me_pompeo_senate_hearing/master.m3u8"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2018/07/20180725_me_pompeo_senate_hearing.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "[Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Pompeo+To+Tell+Senators+About+Trump%27s+North+Korea+And+Russia+Summits&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "632206655",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632206655/former-trump-lawyer-michael-cohen-gives-cnn-audio-tape?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632206655"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2uOvj7n"
+}
+],
+"title": {
+"$text": "Former Trump Lawyer Michael Cohen Gives Audiotape To CNN"
+},
+"partnerId": {
+"$text": "632206655"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Noel King talks to Robert Costa of <em>The Washington Post</em> about Cohen's conversation with Trump that appears to be about payments to suppress a story about an alleged affair between Trump and a model."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Politics"
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 08:12:00 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:36:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 08:30:51 -0400"
+},
+"audioRunByDate": {
+"$text": "Thu, 26 Jul 2018 01:00:00 -0400"
+},
+"show": [
+{
+"program": {
+"id": "3",
+"code": "ME",
+"$text": "Morning Edition"
+},
+"showDate": {
+"$text": "Wed, 25 Jul 2018 05:00:00 -0400"
+},
+"segNum": {
+"$text": "18"
+}
+}
+],
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1014",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "262472261",
+"type": "collection",
+"title": {
+"$text": "MPX Lead"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/262472261/mpx-lead?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=262472261&meta=inherit"
+}
+]
+},
+{
+"id": "632165874",
+"type": "programEpisode",
+"title": {
+"$text": "Morning Edition for July 25, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/2018/07/25/632165874/morning-edition-for-july-25-2018?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632165874&meta=inherit"
+}
+]
+},
+{
+"id": "1014",
+"type": "topic",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "3",
+"type": "program",
+"title": {
+"$text": "Morning Edition"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/programs/morning-edition/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=3&meta=inherit"
+}
+]
+}
+],
+"associatedStory": [
+{
+"id": "632183513",
+"type": "equivalent",
+"title": {
+"$text": "Ex-Trump Lawyer Releases Tape Concerning Former Playboy Model Payoff"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632183513/ex-trump-lawyer-releases-tape-about-payoff-to-former-playboy-model"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632183513"
+}
+]
+},
+{
+"id": "632183187",
+"type": "equivalent",
+"title": {
+"$text": "Wednesday, July 25th, 2018"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/632183187/wednesday-july-25th-2018"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=632183187&profileTypeId=15"
+}
+]
+}
+],
+"audio": [
+{
+"id": "632213382",
+"type": "primary",
+"title": {
+"$text": "Listen to the Story"
+},
+"duration": {
+"$text": "236"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_cohen_trump_recording.mp3?orgId=1&topicId=1014&d=236&p=3&story=632206655&ft=nprml&f="
+},
+{
+"type": "mp3",
+"$text": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/07/20180725_me_cohen_trump_recording.mp3?orgId=1&topicId=1014&d=236&p=3&story=632206655&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1632213382-420ddd.m3u?orgId=1&topicId=1014&d=236&p=3&story=632206655&ft=nprml&f="
+},
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/8632213382-6abc3d.m3u?orgId=1&topicId=1014&d=236&p=3&story=632206655&ft=nprml&f="
+}
+],
+"mp4": {
+"$text": "https://ondemand.npr.org/npr-mp4/npr/me/2018/07/20180725_me_cohen_trump_recording.mp4?orgId=1&topicId=1014&d=236&p=3&story=632206655&ft=nprml&f="
+},
+"hlsOnDemand": {
+"$text": "https://ondemandhls.npr.org/nprhls//npr/me/2018/07/20180725_me_cohen_trump_recording/master.m3u8"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2018/07/20180725_me_cohen_trump_recording.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "[Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Former+Trump+Lawyer+Michael+Cohen+Gives+Audiotape+To+CNN&utme=8(APIKey)9()\"/></div>"
+}
+]
+}
+},
+{
+"id": "631587783",
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/2018/07/25/631587783/why-america-re-elects-a-congress-it-hates?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=631587783"
+},
+{
+"type": "short",
+"$text": "https://n.pr/2LIKoxF"
+}
+],
+"title": {
+"$text": "Why America Re-Elects A Congress It Hates"
+},
+"partnerId": {
+"$text": "631587783"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "Americans don't like Congress. So why do we keep re-electing the same people? NPR's Ron Elving explains."
+},
+"miniTeaser": {},
+"contributorText": {},
+"slug": {
+"$text": "Politics"
+},
+"thumbnail": {
+"medium": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_sq-9ba781cc4076e0db071de3809dd254d8f0d04365.jpg?s=13"
+},
+"large": {
+"$text": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_sq-9ba781cc4076e0db071de3809dd254d8f0d04365.jpg?s=11"
+},
+"provider": {
+"$text": "NPR"
+}
+},
+"storyDate": {
+"$text": "Wed, 25 Jul 2018 08:02:47 -0400"
+},
+"pubDate": {
+"$text": "Wed, 25 Jul 2018 09:19:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Wed, 25 Jul 2018 09:19:33 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1014",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+},
+{
+"id": "434975886",
+"type": "collection",
+"title": {
+"$text": "NPR Stories For Apple News"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=434975886&meta=inherit"
+}
+]
+},
+{
+"id": "1059",
+"type": "topic",
+"title": {
+"$text": "Analysis"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/analysis/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1059&meta=inherit"
+}
+]
+},
+{
+"id": "1014",
+"type": "topic",
+"title": {
+"$text": "Politics"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/sections/politics/?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1014&meta=inherit"
+}
+]
+}
+],
+"byline": [
+{
+"id": "631591935",
+"name": {
+"personId": "1930203",
+"$text": "Ron Elving"
+},
+"link": [
+{
+"type": "html",
+"$text": "https://www.npr.org/people/1930203/ron-elving?ft=nprml&f="
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1930203&meta=inherit"
+}
+]
+}
+],
+"image": [
+{
+"id": "631953929",
+"type": "primary",
+"width": "200",
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_wide-2c19afd70544cc8bcce60e8f6404695832f86b72.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Why is Congress so unpopular, and why do its members continue to be re-elected? NPR's Ron Elving explains."
+},
+"caption": {
+"$text": "Why is Congress so unpopular, and why do its members continue to be re-elected? NPR's Ron Elving explains."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "NPR"
+},
+"copyright": {},
+"enlargement": {
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_wide-2c19afd70544cc8bcce60e8f6404695832f86b72.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3-8fdcc385f09085edcb26e4d7a5807067d2348e03.jpg",
+"height": "1078",
+"width": "1438"
+},
+{
+"type": "square",
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_sq-9ba781cc4076e0db071de3809dd254d8f0d04365.jpg",
+"height": "1001",
+"width": "1001"
+},
+{
+"type": "wide",
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_wide-2c19afd70544cc8bcce60e8f6404695832f86b72.jpg",
+"height": "1078",
+"width": "1916",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "https://media.npr.org/assets/img/2018/07/24/roh_congressionalapprovalratings_thumbv3_wide-2c19afd70544cc8bcce60e8f6404695832f86b72.jpg",
+"height": "1078",
+"width": "1916"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Americans don't like Congress. Yet its members frequently serve there for 20, 30, even 50 years."
+},
+{
+"num": "2",
+"$text": "So, how do we explain such a dismal public approval rating for the institution, when people seem to like its component parts?"
+},
+{
+"num": "3",
+"$text": "In this Ron's Office Hours, we look at the history of congressional approval ratings and the distinction between approval of Congress as a whole — and approval of individual representatives. [Copyright 2018 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Americans don't like Congress. Yet its members frequently serve there for 20, 30, even 50 years."
+},
+{
+"num": "2",
+"$text": "So, how do we explain such a dismal public approval rating for the institution, when people seem to like its component parts?"
+},
+{
+"num": "3",
+"$text": "In this <a href=\"https://www.youtube.com/watch?v=ZTTbbU8u3Zo\">Ron's Office Hours</a>, we look at the history of congressional approval ratings and the distinction between approval of Congress as a whole — and approval of individual representatives.  <div class=\"fullattribution\">Copyright 2018 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Why+America+Re-Elects+A+Congress+It+Hates&utme=8(APIKey)9()\"/></div>"
+}
+]
+},
+"externalAsset": [
+{
+"id": "631587995",
+"type": "YouTube",
+"url": {
+"$text": "https://www.youtube.com/watch?v=ZTTbbU8u3Zo"
+},
+"oEmbed": {
+"$text": "https://www.youtube.com/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DZTTbbU8u3Zo"
+},
+"externalId": {
+"$text": "ZTTbbU8u3Zo"
+},
+"credit": {},
+"parameters": {},
+"caption": {}
+}
+]
+}
+]
+}
+}
